@@ -11,10 +11,10 @@ body {
   background: linear-gradient(
     90deg,
     rgb(167, 20, 226) ,
-    rgb(39, 39, 120) ,
-    rgb(133, 8, 164) ,
-    rgb(75, 7, 212) ,
-    rgb(159, 50, 81) 
+    rgb(31, 31, 130) ,
+    rgb(114, 38, 145) ,
+    rgb(44, 44, 147) ,
+    rgb(104, 17, 139) 
   );
   background-size: 600% 600%;
   animation: background_gradient 8s ease infinite;
